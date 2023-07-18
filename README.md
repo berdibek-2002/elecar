@@ -1,13 +1,11 @@
 # 🚘 Responsive Car website
-## [Watch it on youtube](https://youtu.be/bDngcOQ8Img)
+## [Смотри в Google, Yandex и т.д](https://e1ecar.netlify.app/)
 ### 🚘 Responsive Car website
 
-- Responsive Car website Using HTML CSS & JavaScript
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+- Адаптивный автомобильный веб-сайт с использованием HTML CSS и JavaScript
+- Содержит анимацию при прокрутке.
+- Плавная прокрутка в каждом разделе.
+- Сначала разработано с использованием методологии Mobile First, а затем для настольных компьютеров.
+- Совместим со всеми мобильными устройствами и имеет красивый и приятный пользовательский интерфейс.
 
 ![preview img](/preview.png)
